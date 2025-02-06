@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "十大经典算法", "十大经典算法.csproj", "{84114AFD-9ABF-4AA8-A284-9F79F77FBAE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84114AFD-9ABF-4AA8-A284-9F79F77FBAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84114AFD-9ABF-4AA8-A284-9F79F77FBAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84114AFD-9ABF-4AA8-A284-9F79F77FBAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84114AFD-9ABF-4AA8-A284-9F79F77FBAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB30FF0-2D3E-481B-A44E-C2F66C5D9C4D}
+	EndGlobalSection
+EndGlobal
